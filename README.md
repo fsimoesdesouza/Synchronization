@@ -1,2 +1,2 @@
 # Synchronization
-Synchronization Software
+Synchronization Software for Miniscope and Behavioral Camera
