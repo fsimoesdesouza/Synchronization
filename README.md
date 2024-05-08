@@ -3,8 +3,6 @@ Synchronization Software for Miniscope and Behavioral Camera
 
 %Matlab Codes to Synchronyze the Data
 
-Download and extract the file Miniscope_20230407_JOVE.zip
-
 1) Convert the odor arena flir mp4 file to AVI. You need ffmpeg instaled in your computer.
 
 ffmpeg -i 20210525_unitR02_session003_topCam-0000.mp4 -f avi -vcodec mjpeg 20210525_unitR02_session003_topCam-0000.avi
