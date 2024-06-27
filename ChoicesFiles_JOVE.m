@@ -1,9 +1,4 @@
 ﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%20220804
-%Mouse name: FCM22
-% folder:  
-%/media/fabio/CrucialP3/Miniscope_20230407_JOVE/Final/20220804_FCM22/20220804_FCM22_lanes1_and4_withodor/FCM22/customEntValHere/2022_08_04/11_40_26
-
 %Experiment #1
 
 k = 1;
