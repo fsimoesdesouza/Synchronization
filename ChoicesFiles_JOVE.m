@@ -6,7 +6,7 @@ LANE{k} = '_L1andL4';
 TITULO{k} = 'withodor';
 MOUSE{k} = '20220804_FCM22';  %done
 
-BASEPATH{k} = '/media/fabio/CrucialP3/Miniscope_20230407_JOVE/Final/20220804_FCM22/';
+BASEPATH{k} = '/media/fabio/CrucialP3/Final/20220804_FCM22/'; %change to your path
 TIMESTAMPS{k} = strcat(BASEPATH{k},'/arena01/session001/20220804_arena01_session001_topCam_timestamps.txt');
 EVENTOS{k} = strcat(BASEPATH{k},'arena01/session001/20220804_arena01_session001_topCam_events.txt');
 OUT_FILENAME{k} = strcat(MOUSE{k},TITULO{k},'_odorarena',LANE{k},'.mat');
@@ -29,7 +29,7 @@ INTAN_PATH{k} = strcat(BASEPATH{k},'20220804_FCM22_lanes1_and4_withodor_220804_1
 INTAN_FILENAME{k} = '20220804_FCM22_lanes1_and4_withodor_220804_114013.rhd';
 
 %odorarena metadata
-ODORARENA_METADATA_PATH{k} = '/media/fabio/CrucialP3/Miniscope_20230407_JOVE/Final/';
+ODORARENA_METADATA_PATH{k} = '/media/fabio/CrucialP3/Final/'; %change to your path
 
 
 
