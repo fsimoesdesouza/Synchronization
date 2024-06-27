@@ -1,6 +1,8 @@
 %Matlab Codes to Synchronyze the Data
 
-Download and extract the file Miniscope_20230407_JOVE.zip
+Download and extract the file Miniscope_20220804_JOVE.zip
+
+https://olucdenver-my.sharepoint.com/:u:/g/personal/fabio_simoesdesouza_cuanschutz_edu/EaVgndfgcLFOvP00Hk1R18EBhulFjhhW8ADyeLVSem-Bww?e=dGtcHV
 
 1) Convert the odor arena flir mp4 file to AVI. You need ffmpeg instaled in your computer.
 
