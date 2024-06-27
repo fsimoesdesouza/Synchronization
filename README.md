@@ -2,7 +2,7 @@
 Synchronization Software for Miniscope and Behavioral Camera
 
 %Matlab Codes to Synchronyze the Data
-Download and extract the file Miniscope_20220804_JOVE.zip
+Download and extract the file 20220804_FCM22.zip
 
 https://olucdenver-my.sharepoint.com/:u:/g/personal/fabio_simoesdesouza_cuanschutz_edu/EaVgndfgcLFOvP00Hk1R18EBhulFjhhW8ADyeLVSem-Bww?e=dGtcHV
 
